@@ -6,3 +6,10 @@ int roll numbr =Convert.ToInt32( Console.WriteLine());
 Console.WriteLine("y0ur name is :"+{name});
 Console.WriteLine("y0ur Roll number is :"+{Roll Number});
 Console.ReadLine();
+
+phy
+math
+eng
+thq
+ps
+com
